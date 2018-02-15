@@ -1,0 +1,15 @@
+{
+  "name": "create-pdf-from-md",
+  "version": "1.0.0",
+  "description": "HTML Generator",
+  "main": "",
+  "scripts": {
+    "create-pdf": "node .\\create.js . ./output github"
+  },
+  "author": "tcsatheesh",
+  "license": "Apache 2.0",
+  "dependencies": {
+    "markdown-styles": "^3.1.10",
+    "phantom": "^4.0.12"
+  }
+}
