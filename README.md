@@ -16,7 +16,7 @@ This project is to create a pdf file from a markdown file.
     {
       "name": "docs",
       "version": "1.0.0",
-      "description": "HTML Generator",
+      "description": "Create pdf from md file.",
       "main": "",
       "scripts": {
         "create-html": "node .\\create.js <input path relative to create.js script> ./output github"
